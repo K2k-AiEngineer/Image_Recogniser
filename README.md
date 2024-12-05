@@ -1,4 +1,4 @@
-# Image_Recogniser/# Face Comparison API
+# Image_Recogniser/Face Comparison API
 
 This is a FastAPI-based application that compares two uploaded face images and determines if the faces belong to the same person. It uses OpenCV's DNN module for face detection and embedding generation.
 
